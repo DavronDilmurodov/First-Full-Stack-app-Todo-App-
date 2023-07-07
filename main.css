@@ -1,0 +1,11 @@
+.place-custom::placeholder {
+  color: black;
+}
+
+.title {
+  font-size: 64px;
+}
+
+.list-item {
+  max-width: 735px;
+}
